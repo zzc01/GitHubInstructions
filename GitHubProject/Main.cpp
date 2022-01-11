@@ -30,7 +30,7 @@ b
 
 
 int main() {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello World!\n" << std::endl;
 
     std::vector<std::string> paths = { "/a/c/ac", "/a/b/ab", "/b/c/bc", "/a/c/ac2" };
     Trie* trie = new Trie();
