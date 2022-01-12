@@ -28,3 +28,5 @@ this icon
  name of project 
  add some descriptions 
 8. Can select private repository
+
+[ref] https://www.youtube.com/watch?v=Y1fBfrcRMEs
