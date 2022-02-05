@@ -1,3 +1,7 @@
+# GitHubProject 
+* First repository pushed from VS 
+* Some instructions using git 
+
 ## Download a git repository 
 1. Copy the url, which is the repository, from github. 
 2. Spcify local PC path. Create a new folder. 
