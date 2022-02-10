@@ -1,6 +1,5 @@
 # GitHubProject 
-* First repository pushed from VS 
-* Some instructions using git 
+Some instructions using git <br/> 
 
 ## Download a git repository 
 1. Copy the url from github at Code -> Clone -> HTTPS. 
