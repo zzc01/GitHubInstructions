@@ -3,9 +3,9 @@
 * Some instructions using git 
 
 ## Download a git repository 
-1. Copy the url, which is the repository, from github. 
-2. Spcify local PC path. Create a new folder. 
-3. Clone the repository. 
+1. Copy the url from github at Code -> Clone -> HTTPS. 
+2. Open Git Bash. Create a new directory on you local computer. 
+3. Type git clone, and then paste the URL you copied earlier. "git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
 4. Now have the project in local.  
 
 ## Publish a fresh project from VS to github 
