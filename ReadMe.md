@@ -22,7 +22,7 @@ Some instructions on how to use GitHub <br/><br/>
 12. At GitHub new a repository named test <br/>
 13. $ git branch -r 
 14. $ git push -u origin master <br/>
-
+<br/>
 
 ## Merge branches 
 
@@ -38,16 +38,16 @@ And in the conflicted files will have <<<<<<< HEAD, >>>>>>> branch3 marks.
 4. Manually resolve the conflict 
 5. $ git commit -am “conflict resolved”
 Commit and finalize the merge 
-
+<br/>
 
 ## Download a git repository 
 1. Copy the url from github at Code -> Clone -> HTTPS. 
 2. Open Git Bash. Create a new directory on you local computer. 
 3. Type git clone, and then paste the URL you copied earlier. "git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
 4. Now have the project in local.  
+<br/>
 
 ## Publish a fresh project from VS to github 
-
 1. Open or new a project or solution. githubproject. 
 2. Extensions -> online -> github extension for visual studio 
  download and install 
@@ -59,15 +59,15 @@ Commit and finalize the merge
 5. Connect github account 
  login details 
  signin 
-6. publish the project , bottom right corner of VS
-^
-|
+6. publish the project , bottom right corner of VS <br/>
+^<br/>
+|<br/>
 this icon 
 7. Publish to github 
  name of project 
  add some descriptions 
 8. Can select private repository
-
+<br/>
  
 
 ## References 
