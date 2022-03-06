@@ -31,12 +31,12 @@
 </p></pre>
 
 1. $ git checkout master 
-2. $ git merge branch3
-If there are conflict, will create conflict report in $ git status. 
-And in the conflicted files will have <<<<<<< HEAD, >>>>>>> branch3 marks. 
+2. $ git merge branch3 <br/>
+If there are conflict, will create conflict report in $ git status.  <br/>
+And in the conflicted files will have <<<<<<< HEAD, >>>>>>> branch3 marks. <br/>
 3. Can remove the reports using $ git merge –abort 
 4. Manually resolve the conflict 
-5. $ git commit -am “conflict resolved”
+5. $ git commit -am “conflict resolved” <br/>
 Commit and finalize the merge 
 <br/>
 
