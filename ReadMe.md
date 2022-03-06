@@ -1,5 +1,5 @@
-# GitHubProject 
-Some instructions on how to use GitHub <br/><br/> 
+# GitHub Instructions 
+ 
 
 
 ## Create a new repository from command line
