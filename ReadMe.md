@@ -71,5 +71,5 @@ this icon
  
 
 ## References 
-* Ufinix, Using GitHub in Visual Studio 2019, https://www.youtube.com/watch?v=Y1fBfrcRMEs.
-* Adam Pritchard, Markdown Cheatsheet, https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+* Ufinix, [Using GitHub in Visual Studio 2019](https://www.youtube.com/watch?v=Y1fBfrcRMEs)
+* Adam Pritchard, [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
